@@ -2,5 +2,5 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning penetration testing and web security
 - 💞️ I’m looking to collaborate on beginner-friendly security projects
-- 📫 How to reach me: huaji48254@gmail.com
+- 📫 How to reach me: 
 - ⚡ Fun fact: I like exploring how vulnerabilities are found and fixed
